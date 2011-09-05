@@ -90,3 +90,15 @@ img.aligncenter {
 	max-height:12px;
 	margin:0 !important;
 }
+
+#branding {
+        padding: 5px 0;
+}
+
+#main {
+        padding: 8px 0;
+}
+
+#content {
+	width: 100%;
+}
